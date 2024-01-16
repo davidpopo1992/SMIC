@@ -1,0 +1,2 @@
+pyinstaller -F video_images_process_done.py
+pyinstaller -F facecars_mark.py
